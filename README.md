@@ -1,0 +1,2 @@
+# BD
+PLSQL inquiries

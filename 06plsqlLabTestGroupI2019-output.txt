@@ -1,0 +1,17 @@
+----------------------------------------------
+Patient: 101 - Margarita Sanchez
+sulfamethoxazole                   41.40
+methicillin                        41.76
+methicillin                        20.88
+potassium iodide                    2.40
+----------------------------------------------
+Patient: 103 - Pedro Santillana
+methicillin                        20.88
+potassium iodide                    4.20
+----------------------------------------------
+Patient: 105 - Ambrosio Perez
+No medication prescribed
+----------------------------------------------
+Patient: 106 - Lola Arribas
+potassium iodide                    3.60
+

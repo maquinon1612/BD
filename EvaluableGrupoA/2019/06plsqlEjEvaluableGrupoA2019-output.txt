@@ -1,0 +1,40 @@
+==========================================================
+Medicamento: 3 - meticilina
+Gasto total:          41.76 euros.
+----------------------------------------------------------
+ Paciente                             Edad   Gasto   Dto. 
+----------------------------------------------------------
+  101 Margarita Sanchez                18    20.88  20.88
+  103 Pedro Santillana                 68    20.88   8.35
+==========================================================
+Medicamento: 4 - amoxicilina
+Gasto total:          13.64 euros.
+----------------------------------------------------------
+ Paciente                             Edad   Gasto   Dto. 
+----------------------------------------------------------
+  101 Margarita Sanchez                18    10.56  10.56
+  102 Angel Garcia                     34     3.08   2.00
+==========================================================
+Medicamento: 9 - cloxacilina
+Gasto total:           0.00 euros.
+----------------------------------------------------------
+No prescrito
+==========================================================
+
+
+-- Contenido de ej_estadisticas despues de ejecutar el procedimiento:
+select * from ej_estadisticas;
+
+     IDMED                            NUMPACIENTES
+---------- ---------------------------------------
+         1                                       0
+         2                                       0
+         3                                       2
+         4                                       1
+         5                                       0
+         6                                       0
+         7                                       0
+         8                                       0
+         9                                       0
+
+ 9 rows selected 
